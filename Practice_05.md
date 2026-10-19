@@ -1324,8 +1324,6 @@ public partial class AppShell : Shell
 
 1. Документация .NET MAUI — Microsoft Learn: <https://learn.microsoft.com/dotnet/maui/>
    - разделы «Shell tabs», «Shell navigation», «Shell pages», «Preferences».
-2. Лекция 7. Многовкладочная навигация на базе Shell (файл `Lekciya_7_TabBar_Shell_vkladki.md`).
-3. Лекция 6 и практическая работа №6 (файлы `Lekciya_6_Navigaciya_Shell.md`, `PR6_metodicheskie_rekomendacii_Navigaciya.md`).
-4. Material Design 3 — Navigation bar: <https://m3.material.io/>
-5. Apple Human Interface Guidelines — Tab bars: <https://developer.apple.com/design/human-interface-guidelines/>
-6. Документация JetBrains Rider — .NET MAUI: <https://www.jetbrains.com/help/rider/>
+2. Material Design 3 — Navigation bar: <https://m3.material.io/>
+3. Apple Human Interface Guidelines — Tab bars: <https://developer.apple.com/design/human-interface-guidelines/>
+4. Документация JetBrains Rider — .NET MAUI: <https://www.jetbrains.com/help/rider/>
